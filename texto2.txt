@@ -1,0 +1,1 @@
+Las diferencias entre git pull y git fetch es que git pull descarga y fuciona y git fetch solo descarga, sin fusionar.
