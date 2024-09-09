@@ -1,0 +1,1 @@
+Despues de usar git fetch se ocupa un git merge
