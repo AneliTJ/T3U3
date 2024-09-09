@@ -1,1 +1,2 @@
 Despues de usar git fetch se ocupa un git merge
+se usa para fusionar los 2 codigos.
